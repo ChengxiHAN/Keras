@@ -139,3 +139,9 @@ Trains a simple deep CNN on the CIFAR10 small images dataset using Tensorflow in
 
 [tensorboard_embeddings_mnist.py](tensorboard_embeddings_mnist.py)
 Trains a simple convnet on the MNIST dataset and embeds test data which can be later visualized using TensorBoard's Embedding Projector.
+
+
+------------------------------------------------
+##Results 
+【1】neural_style_transfer
+
