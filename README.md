@@ -146,8 +146,8 @@ Trains a simple convnet on the MNIST dataset and embeds test data which can be l
 # Results
 
 ## neural_style_transfer
-twins：
-![twins](twins.JPG) 
+
+![twins](twins.JPG) Twins
 starry night：
 ![starry night](starry_night.jpg)
 result：20 epoch
