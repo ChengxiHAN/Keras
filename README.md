@@ -142,6 +142,6 @@ Trains a simple convnet on the MNIST dataset and embeds test data which can be l
 
 
 ------------------------------------------------
-##Results 
+#Results 
 【1】neural_style_transfer
 
