@@ -150,7 +150,7 @@ Trains a simple convnet on the MNIST dataset and embeds test data which can be l
 
 * hello word!
 
-* [twins](twins.jpg)
+* [twins](twins.JPG)
 * [starry night](starry_night.jpg)
 
 * [ChengxiHan](https://github.com/ChengxiHAN)
