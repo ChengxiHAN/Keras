@@ -146,9 +146,9 @@ Trains a simple convnet on the MNIST dataset and embeds test data which can be l
 # Results
 
 ## neural_style_transfer
-! [twins](twins.JPG) 
-! [starry night](starry_night.jpg) 
-! [result](result_at_iteration_19.png)
+![twins] (twins.JPG) 
+![starry night](starry_night.jpg) 
+![result](result_at_iteration_19.png)
 
 ----
 
