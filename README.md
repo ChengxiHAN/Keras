@@ -148,10 +148,8 @@ Trains a simple convnet on the MNIST dataset and embeds test data which can be l
 ## neural_style_transfer
 
 ![twins](twins.JPG) Twins
-starry night：
-![starry night](starry_night.jpg)
-result：20 epoch
-![result](result_at_iteration_19.png)
+![starry night](starry_night.jpg) starry night
+![result](result_at_iteration_19.png) starry night
 
 ----
 
