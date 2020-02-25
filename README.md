@@ -153,7 +153,7 @@ Trains a simple convnet on the MNIST dataset and embeds test data which can be l
 
 <img src="twins.JPG" width="40%" height="40%" align=center />
 <img src="./twins.JPG" width = "300" height = "200" alt="图片名称" align=center />
-![](./twins.JPG =300x200)
+![11](./twins.JPG =300x200)
 
 
 ----
