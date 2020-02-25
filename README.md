@@ -147,14 +147,15 @@ Trains a simple convnet on the MNIST dataset and embeds test data which can be l
 
 * neural_style_transfer
 
-Test：
+<img src="twins.JPG" width="35%" height="35%" align=center />
          Input Content Picture：Twins
+
 <img src="twins.JPG" width="35%" height="35%" align=center />
          Input Style Picture：Starry Night
-<img src="./starry_night.jpg" width = "300" height = "200" alt="星空" align=center />
-         Output：20 Iterations
-<img src="./result_at_iteration_19.png" width = "300" height = "200" alt="星空" align=center />
 
+<img src="./result_at_iteration_19.png" width = "300" height = "200" alt="星空" align=center />
+         Output：20 Iterations
+         
 ----
 
 * hello word!
