@@ -148,11 +148,12 @@ Trains a simple convnet on the MNIST dataset and embeds test data which can be l
 ## neural_style_transfer
 
 ![twins](twins.JPG){:height="500px" width="500px"}  Twins
-![starry night](starry_night.jpg =300x200) starry night
+![starry night](starry_night.jpg) starry night
 ![result](result_at_iteration_19.png) starry night
 
 <img src="twins.JPG" width="40%" height="40%" align=center />
 <img src="./twins.JPG" width = "300" height = "200" alt="图片名称" align=center />
+![](./twins.JPG =300x200)
 
 
 ----
