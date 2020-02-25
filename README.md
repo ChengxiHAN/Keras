@@ -146,7 +146,7 @@ Trains a simple convnet on the MNIST dataset and embeds test data which can be l
 # Results
 
 ## neural_style_transfer
-
+神经网络风格迁移测试：
          Input Content Picture：Twins
 <img src="twins.JPG" width="35%" height="35%" align=center />
          Input Style Picture：Starry Night
