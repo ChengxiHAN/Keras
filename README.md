@@ -160,11 +160,11 @@ Trains a simple convnet on the MNIST dataset and embeds test data which can be l
 <img src="vgg_block5_conv1_8x8.jpg" width="35%" height="35%" align=center />
          Output：vgg_block5_conv1_8x8
 
-<img src="./vgg_block5_conv1_17x17.png" width = "300" height = "200" alt="星空" align=center />
+<img src="./vgg_block5_conv1_17x17.png" width = "300" height = "200"  align=center />
          Output：vgg_block5_conv1_17x17
 
 *mnist_acgan: Train an Auxiliary Classifier GAN (ACGAN) on the MNIST dataset
-<img src="./vgg_block5_conv1_17x17.png" width = "300" height = "200" alt="星空" align=center />
+<img src="./vgg_block5_conv1_17x17.png" width = "300" height = "200"  align=center />
          Output：epoch_010_generated
          
 
