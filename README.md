@@ -151,7 +151,9 @@ Trains a simple convnet on the MNIST dataset and embeds test data which can be l
 ![starry night](starry_night.jpg) starry night
 ![result](result_at_iteration_19.png) starry night
 
-<img src="twins.JPG" width="40%" height="40%" align=center >
+<img src="twins.JPG" width="40%" height="40%" align=center />
+
+
 
 ----
 
