@@ -147,7 +147,7 @@ Trains a simple convnet on the MNIST dataset and embeds test data which can be l
 
 * neural_style_transfer：
 
-<img src="twins.JPG" width="35%" height="35%" align=center />
+<img src="twins.JPG" width="300" height="200" align=center />
          Input Content Picture：Twins
 
 <img src="starry_night.jpg" width="300" height="200" align=center />
