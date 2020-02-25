@@ -150,18 +150,22 @@ Trains a simple convnet on the MNIST dataset and embeds test data which can be l
 <img src="twins.JPG" width="35%" height="35%" align=center />
          Input Content Picture：Twins
 
-<img src="twins.JPG" width="35%" height="35%" align=center />
+<img src="starry_night.jpg" width="300%" height="200%" align=center />
          Input Style Picture：Starry Night
 
 <img src="./result_at_iteration_19.png" width = "300" height = "200" alt="星空" align=center />
          Output：20 Iterations
          
+----
+
 * conv_filter_visualization：
-<img src="vgg_block5_conv1_8x8.jpg" width="35%" height="35%" align=center />
+<img src="vgg_block5_conv1_8x8.jpg" width="300" height="200" align=center />
          Output：vgg_block5_conv1_8x8
 
 <img src="./vgg_block5_conv1_17x17_.png" width = "300" height = "200"  align=center />
          Output：vgg_block5_conv1_17x17
+
+----
 
 * mnist_acgan: Train an Auxiliary Classifier GAN (ACGAN) on the MNIST dataset
 <img src="./plot_epoch_010_generated.png" width = "50%" height = "50%"  align=center />
